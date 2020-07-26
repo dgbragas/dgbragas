@@ -1,16 +1,16 @@
-### Hi there 👋
+# **UI Designer & Front-end Developer** :wave:
 
-<!--
-**dgbragas/dgbragas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"_Delivering the best solutions to the companys through a stack based in Technology and Design._"
 
-Here are some ideas to get you started:
+I have a great zeal for web standards both in prototyping and in coding. Besides I'm always seeking to deliver the best of code linked to insane and surprising interfaces in the user eyes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition I'm a ReactJS Lover and passionate about JavaScript; always studying to aprimore my skills using this language. In this way almost all my projects here are structed using ReactJS or VanillaJS.
+
+- :classical_building: **Company:** Currently as a Front-end Developer at @semantixbr
+- :atom_symbol: **Main skills:** ReactJS, JavaScript, Semantic HTML, Wireframing, Interaction Design
+- :atom_symbol: **Learning:** TypeScript, Node.js, React Native
+- :mortar_board: **Formation:** Graduated from Faculdade Bandeirantes de Tecnologia and currently studying at Rocketseat GoStack Bootcamp, uiBoost from @papaidesigner (on Instagram) and anothers pontual courses in Udemy / Origamid.
+
+---
+
+You can found me searching for @dgbragas in all social medias (LinkedIn, Instagram, Dribbble, ...)
