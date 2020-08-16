@@ -9,8 +9,10 @@ In addition I'm a ReactJS Lover and passionate about JavaScript; always studying
 - :classical_building: **Company:** Currently as a Front-end Developer at @semantixbr
 - :atom_symbol: **Main skills:** ReactJS, JavaScript, Semantic HTML, Wireframing, Interaction Design
 - :atom_symbol: **Learning:** TypeScript, Node.js, React Native
-- :mortar_board: **Formation:** Graduated from Faculdade Bandeirantes de Tecnologia and currently studying at Rocketseat GoStack Bootcamp, uiBoost from @papaidesigner (on Instagram) and anothers pontual courses in Udemy / Origamid.
+- :mortar_board: **Formation:** Graduated from Faculdade Bandeirantes de Tecnologia and currently studying at @Rocketseat GoStack Bootcamp, @maateusilva DevBoost, uiBoost (by @papaidesigner on Instagram) and anothers pontual courses in Udemy / Origamid.
 
 ---
 
-You can found me searching for @dgbragas in all social medias (LinkedIn, Instagram, Dribbble, ...)
+[![Linkedin Badge](https://img.shields.io/badge/-Dribbble-ea4c89?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/dgbragas)](https://dribbble.com/dgbragas)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dgbragas)](https://www.linkedin.com/in/dgbragas)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dgbragas)](https://twitter.com/dgbragas)
