@@ -6,10 +6,10 @@ I have a great zeal for web standards both in prototyping and in coding. Besides
 
 In addition I'm a ReactJS Lover and passionate about JavaScript; always studying to aprimore my skills using this language. In this way almost all my projects here are structed using ReactJS or VanillaJS.
 
-- :classical_building: **Company:** Currently as a Front-end Developer at @semantixbr
+- :classical_building: **Company:** Currently as a Front-end Engineer at @studos-software
 - :atom_symbol: **Main skills:** ReactJS, JavaScript, Semantic HTML, Wireframing, Interaction Design
 - :atom_symbol: **Learning:** TypeScript, Node.js, React Native
-- :mortar_board: **Formation:** Graduated from Faculdade Bandeirantes de Tecnologia and currently studying at @Rocketseat GoStack Bootcamp, @maateusilva DevBoost, uiBoost (by @papaidesigner on Instagram) and anothers pontual courses in Udemy / Origamid.
+- :mortar_board: **Formation:** Graduated from Faculdade de Tecnologia Bandeirantes and currently studying at @Rocketseat GoStack Bootcamp, @maateusilva JStack, uiBoost (by @papaidesigner on Instagram) and anothers pontual courses in Udemy / Origamid.
 
 ---
 
